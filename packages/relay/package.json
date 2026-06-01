@@ -40,12 +40,12 @@
   "dependencies": {
     "base64-js": "^1.5.1",
     "tweetnacl": "^1.0.3",
-    "ws": "^8.14.2"
+    "ws": "^8.20.1"
   },
   "devDependencies": {
     "@types/node": "^20.9.0",
     "@types/ws": "^8.5.8",
     "typescript": "^5.2.2",
-    "vitest": "^3.2.4"
+    "vitest": "^4.1.0"
   }
 }
