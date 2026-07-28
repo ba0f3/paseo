@@ -93,9 +93,9 @@
   "devDependencies": {
     "@types/ws": "^8.5.14",
     "@typescript/native-preview": "7.0.0-dev.20260423.1",
-    "concurrently": "^9.2.1",
+    "concurrently": "^9.2.4",
     "get-port-cli": "^3.0.0",
-    "js-yaml": "^4.1.1",
+    "js-yaml": "^4.3.0",
     "knip": "^5.82.1",
     "lefthook": "^2.1.6",
     "oxfmt": "0.46.0",
@@ -103,7 +103,7 @@
     "patch-package": "^8.0.1",
     "playwright": "^1.56.1",
     "typescript": "^5.9.3",
-    "ws": "^8.20.0"
+    "ws": "^8.21.1"
   },
   "overrides": {
     "lightningcss": "1.30.1",
